@@ -1,1 +1,1 @@
-# binance-integration
+# binance-integration-api
